@@ -1,5 +1,7 @@
 # Copyright 2015 Sun Jingyun
 #
+# Python version: 2.7.8
+#
 # An SVN post-commit hook for posting to Lesschat. Using it with following steps.
 #  
 # Step 1:
